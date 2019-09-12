@@ -8,7 +8,7 @@ git clone https://github.com/Dewire/welcome-code.git
 
 eller
 
-git@github.com:Dewire/welcome-code.git
+git clone git@github.com:Dewire/welcome-code.git
 
 cd welcome-code
 git submodule update --init --recursive --remote
