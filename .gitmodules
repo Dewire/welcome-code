@@ -1,0 +1,24 @@
+[submodule "welcome-code-backend"]
+	path = welcome-code-backend
+	url = git@github.com:Dewire/welcome-code-backend.git
+	branch = master
+[submodule "welcome-code-frontend"]
+	path = welcome-code-frontend
+	url = git@github.com:Dewire/welcome-code-frontend.git
+	branch = master
+[submodule "welcome-code-common"]
+	path = welcome-code-common
+	url = git@github.com:Dewire/welcome-code-common.git
+	branch = master
+[submodule "welcome-code-admin"]
+	path = welcome-code-admin
+	url = git@github.com:Dewire/welcome-code-admin.git
+	branch = master
+[submodule "welcome-code-eb-backend"]
+	path = welcome-code-eb-backend
+	url = git@github.com:Dewire/welcome-code-eb-backend.git
+	branch = master
+[submodule "welcome-code-file-store"]
+	path = welcome-code-file-store
+	url = git@github.com:Dewire/welcome-code-file-store.git
+	branch = master
